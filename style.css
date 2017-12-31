@@ -1,0 +1,27 @@
+
+body{
+  font-family: 'Cutive Mono', fixed;
+  background-color: white;
+  color: black;
+}
+h1, h2, h3{
+  font-family: 'Permanent Marker', cursive;
+  color: #009900;
+}
+#page-wrapper{
+  width: 100%;
+  height: 100%;
+}
+#content-wrapper{
+  background-color: #eeeeee;
+  padding: 0.5em 1.5em;
+  margin: 1.0em;
+  max-width: 24em;
+}
+#section-about ul li{
+  margin-top: 0.5em;
+  margin-botto: 0.5em;
+}
+.update{
+  background: yellow;
+}
