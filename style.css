@@ -25,3 +25,9 @@ h1, h2, h3{
 .update{
   background: yellow;
 }
+a:hover, a:visited, a:link {
+  color: #007700;
+}
+a:active {
+  color: #00AA00;
+}
