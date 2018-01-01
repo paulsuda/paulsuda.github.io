@@ -1,0 +1,20 @@
+{
+  "name": "paulsuda.github.io",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:paulsuda/paulsuda.github.io"
+  },
+  "author": "Paul Suda <paulsuda@gmail.com>",
+  "license": "MIT"
+}
